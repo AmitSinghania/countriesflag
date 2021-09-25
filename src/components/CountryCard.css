@@ -1,0 +1,9 @@
+.country {
+  box-sizing: border-box;
+  max-width: 45%;
+  margin: 1% 2%;
+  max-height: 10;
+}
+.country__flag {
+  max-height: 30em;
+}
